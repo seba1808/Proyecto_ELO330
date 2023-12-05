@@ -31,7 +31,7 @@ Con esto se monta el servidor en Aragorn, debe luego activar el cliente que env�
 
 Para visualizar:
 - Ingrese a su navegador de preferencia.
-- En la URL ingrese <IP_servidor >: <Puerto utilizado> en este caso 200.17.1.195:47203 IP de aragorn y puerto libre se este.
+- En la URL ingrese <IP_servidor >: <Puerto_utilizado> en este caso 200.17.1.195:47203 IP de aragorn y puerto libre de este.
 - Visualización e interacción en pagina Web.
 
 ## Autores
