@@ -26,7 +26,14 @@ En caso de trabajar en servidor del departamento de Electronica UTFSM aragorn:
 Java:
 - Para compilar utilice javac Main.java
 - Para ejecutar uttilice java Main
-  
+
+Con esto se monta el servidor en Aragorn, debe luego activar el cliente que envíe los datos, es decir el ESP32 o sustituto.
+
+Para visualizar:
+- Ingrese a su navegador de preferencia.
+- En la URL ingrese <IP_servidor ><Puerto utilizado > en este caso 200.17.1.195:47203 IP de aragorn y puerto libre se este.
+- Visualización e interacción en pagina Web.
+
 ## Autores
 Grupo 1 - ELO330 S2 2023
 - Diego Almonacid
