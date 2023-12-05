@@ -1,6 +1,6 @@
 ### Sistema IoT en Aragorn
 
-Este proyecto consta de varios componentes que incluyen servidores en Java y C, así como un cliente JavaFX y un cliente UDP en Java.
+En este proyecto se diseña un sistema IoT con uso de un Microcontrolador ESP32 y el uso del servidor Aragorn del departamento de Electronica de la Universidad Técnica Federico Santa Maria. En este se genera un codigo en Java el cual genera comunicación remota y monta una pagina Web abierta para ser accedida por cualquiera que cuente con IP y puerto utilizado. 
 
 ## Requisitos Previos
 
